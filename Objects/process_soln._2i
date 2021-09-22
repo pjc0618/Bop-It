@@ -1,0 +1,9 @@
+--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections
+-I.\RTE\_Target_1
+-IC:\Users\sdd58\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include
+-IC:\Users\sdd58\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include
+-IC:\Users\sdd58\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include
+-IC:\Users\sdd58\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0
+-IC:\Users\sdd58\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers
+-D__UVISION_VERSION="529" -D_RTE_ -DMK64FN1M0xxx12 -DCPU_MK64FN1M0VLL12
+-o .\objects\process_soln.o --omf_browse .\objects\process_soln.crf --depend .\objects\process_soln.d --feedback ".\Objects\i2c.fed" "src\process_soln.c"

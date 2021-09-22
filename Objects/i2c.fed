@@ -1,0 +1,133 @@
+;#<FEEDBACK># ARM Linker, 5060750: Last Updated: Mon May 11 16:08:57 2020
+;VERSION 0.2
+;FILE 3140_accel.o
+ACCEL_getAccelDat <= USED 0
+__asm___12_3140_accel_c_4954acc9____REV16 <= USED 0
+__asm___12_3140_accel_c_4954acc9____REVSH <= USED 0
+__asm___12_3140_accel_c_4954acc9____RRX <= USED 0
+;FILE 3140_concur.o
+__asm___13_3140_concur_c_64af8d8a____REV16 <= USED 0
+__asm___13_3140_concur_c_64af8d8a____REVSH <= USED 0
+__asm___13_3140_concur_c_64af8d8a____RRX <= USED 0
+;FILE 3140_i2c.o
+I2C_ReadRegs <= USED 0
+__asm___10_3140_i2c_c_nakFlag____REV16 <= USED 0
+__asm___10_3140_i2c_c_nakFlag____REVSH <= USED 0
+__asm___10_3140_i2c_c_nakFlag____RRX <= USED 0
+;FILE 3140_serial.o
+__asm___13_3140_serial_c_f64bdfb6____REV16 <= USED 0
+__asm___13_3140_serial_c_f64bdfb6____REVSH <= USED 0
+__asm___13_3140_serial_c_f64bdfb6____RRX <= USED 0
+uart_putChar <= USED 0
+uart_putString <= USED 0
+;FILE fsl_clock.o
+CLOCK_BootToBlpeMode <= USED 0
+CLOCK_BootToBlpiMode <= USED 0
+CLOCK_BootToFeeMode <= USED 0
+CLOCK_BootToFeiMode <= USED 0
+CLOCK_BootToPeeMode <= USED 0
+CLOCK_CalcPllDiv <= USED 0
+CLOCK_ClearStatusFlags <= USED 0
+CLOCK_DeinitOsc0 <= USED 0
+CLOCK_EnablePll0 <= USED 0
+CLOCK_EnableUsbfs0Clock <= USED 0
+CLOCK_ExternalModeToFbeModeQuick <= USED 0
+CLOCK_GetBusClkFreq <= USED 0
+CLOCK_GetCoreSysClkFreq <= USED 0
+CLOCK_GetEr32kClkFreq <= USED 0
+CLOCK_GetFixedFreqClkFreq <= USED 0
+CLOCK_GetFlashClkFreq <= USED 0
+CLOCK_GetFlexBusClkFreq <= USED 0
+CLOCK_GetFllFreq <= USED 0
+CLOCK_GetFreq <= USED 0
+CLOCK_GetInternalRefClkFreq <= USED 0
+CLOCK_GetMode <= USED 0
+CLOCK_GetOsc0ErClkFreq <= USED 0
+CLOCK_GetOutClkFreq <= USED 0
+CLOCK_GetPlatClkFreq <= USED 0
+CLOCK_GetPll0Freq <= USED 0
+CLOCK_GetPllFllSelClkFreq <= USED 0
+CLOCK_GetStatusFlags <= USED 0
+CLOCK_InitOsc0 <= USED 0
+CLOCK_InternalModeToFbiModeQuick <= USED 0
+CLOCK_SetBlpeMode <= USED 0
+CLOCK_SetBlpiMode <= USED 0
+CLOCK_SetExternalRefClkConfig <= USED 0
+CLOCK_SetFastIrcFreq <= USED 0
+CLOCK_SetFbeMode <= USED 0
+CLOCK_SetFbiMode <= USED 0
+CLOCK_SetFeeMode <= USED 0
+CLOCK_SetFeiMode <= USED 0
+CLOCK_SetInternalRefClkConfig <= USED 0
+CLOCK_SetMcgConfig <= USED 0
+CLOCK_SetOsc0MonitorMode <= USED 0
+CLOCK_SetPbeMode <= USED 0
+CLOCK_SetPeeMode <= USED 0
+CLOCK_SetPll0MonitorMode <= USED 0
+CLOCK_SetRtcOscMonitorMode <= USED 0
+CLOCK_SetSimConfig <= USED 0
+CLOCK_SetSlowIrcFreq <= USED 0
+CLOCK_TrimInternalRefClk <= USED 0
+__asm___11_fsl_clock_c_85d7f636____REV16 <= USED 0
+__asm___11_fsl_clock_c_85d7f636____REVSH <= USED 0
+__asm___11_fsl_clock_c_85d7f636____RRX <= USED 0
+;FILE fsl_common.o
+SDK_DelayAtLeastUs <= USED 0
+SDK_Free <= USED 0
+SDK_Malloc <= USED 0
+__asm___12_fsl_common_c_82ca3ae9__DelayLoop <= USED 0
+__asm___12_fsl_common_c_82ca3ae9____REV16 <= USED 0
+__asm___12_fsl_common_c_82ca3ae9____REVSH <= USED 0
+__asm___12_fsl_common_c_82ca3ae9____RRX <= USED 0
+;FILE fsl_gpio.o
+GPIO_PortClearInterruptFlags <= USED 0
+GPIO_PortGetInterruptFlags <= USED 0
+__asm___10_fsl_gpio_c_c53caebd____REV16 <= USED 0
+__asm___10_fsl_gpio_c_c53caebd____REVSH <= USED 0
+__asm___10_fsl_gpio_c_c53caebd____RRX <= USED 0
+;FILE fsl_i2c.o
+I2C1_DriverIRQHandler <= USED 0
+I2C2_DriverIRQHandler <= USED 0
+I2C_MasterDeinit <= USED 0
+I2C_MasterReadBlocking <= USED 0
+I2C_MasterTransferAbort <= USED 0
+I2C_MasterTransferBlocking <= USED 0
+I2C_MasterTransferGetCount <= USED 0
+I2C_MasterWriteBlocking <= USED 0
+I2C_SlaveDeinit <= USED 0
+I2C_SlaveGetDefaultConfig <= USED 0
+I2C_SlaveInit <= USED 0
+I2C_SlaveReadBlocking <= USED 0
+I2C_SlaveTransferAbort <= USED 0
+I2C_SlaveTransferCreateHandle <= USED 0
+I2C_SlaveTransferGetCount <= USED 0
+I2C_SlaveTransferHandleIRQ <= USED 0
+I2C_SlaveTransferNonBlocking <= USED 0
+I2C_SlaveWriteBlocking <= USED 0
+__asm___9_fsl_i2c_c_d4dc8a94____REV16 <= USED 0
+__asm___9_fsl_i2c_c_d4dc8a94____REVSH <= USED 0
+__asm___9_fsl_i2c_c_d4dc8a94____RRX <= USED 0
+;FILE lab3_t0.o
+__asm___9_lab3_t0_c_p1____REV16 <= USED 0
+__asm___9_lab3_t0_c_p1____REVSH <= USED 0
+__asm___9_lab3_t0_c_p1____RRX <= USED 0
+;FILE process_soln.o
+__asm___14_process_soln_c_2c109d13____REV16 <= USED 0
+__asm___14_process_soln_c_2c109d13____REVSH <= USED 0
+__asm___14_process_soln_c_2c109d13____RRX <= USED 0
+;FILE startup_mk64f12.o
+;FILE system_mk64f12.o
+SystemCoreClockUpdate <= USED 0
+__asm___16_system_MK64F12_c_5d646a67____REV16 <= USED 0
+__asm___16_system_MK64F12_c_5d646a67____REVSH <= USED 0
+__asm___16_system_MK64F12_c_5d646a67____RRX <= USED 0
+;FILE utils.o
+LEDBlue_On <= USED 0
+LEDGreen_On <= USED 0
+LEDGreen_Toggle <= USED 0
+LEDRed_On <= USED 0
+LEDRed_Toggle <= USED 0
+LED_Off <= USED 0
+__asm___7_utils_c_b6ac1dea____REV16 <= USED 0
+__asm___7_utils_c_b6ac1dea____REVSH <= USED 0
+__asm___7_utils_c_b6ac1dea____RRX <= USED 0

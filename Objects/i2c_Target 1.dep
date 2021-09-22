@@ -1,0 +1,223 @@
+Dependencies for Project 'i2c', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
+F (.\src\3140_accel.c)(0x5ECBAD08)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers-D__UVISION_VERSION="529" -D_RTE_ -DMK64FN1M0xxx12 -DCPU_MK64FN1M0VLL12-o .\objects\3140_accel.o --omf_browse .\objects\3140_accel.crf --depend .\objects\3140_accel.d)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_common.h)(0x5DFACBF2)
+I (C:\Keil_v5\ARM\ARMCC\include\assert.h)(0x5D9B88E2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B88EA)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5ECBAD08)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\fsl_device_registers.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\system_MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12_features.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_clock.h)(0x5DFACBF2)
+I (src\3140_serial.h)(0x5ECBAD08)
+I (src\3140_i2c.h)(0x5ECBAD08)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_i2c.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_port.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_gpio.h)(0x5DFACBF2)
+I (src\3140_accel.h)(0x5ECBAD08)
+F (.\src\3140_i2c.c)(0x5ECBAD08)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers-D__UVISION_VERSION="529" -D_RTE_ -DMK64FN1M0xxx12 -DCPU_MK64FN1M0VLL12-o .\objects\3140_i2c.o --omf_browse .\objects\3140_i2c.crf --depend .\objects\3140_i2c.d)
+I (src\3140_i2c.h)(0x5ECBAD08)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_common.h)(0x5DFACBF2)
+I (C:\Keil_v5\ARM\ARMCC\include\assert.h)(0x5D9B88E2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B88EA)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5ECBAD08)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\fsl_device_registers.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\system_MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12_features.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_clock.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_i2c.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_port.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_gpio.h)(0x5DFACBF2)
+F (.\src\3140_i2c.h)(0x5ECBAD08)()
+F (.\src\3140_serial.c)(0x5ECBAD08)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers-D__UVISION_VERSION="529" -D_RTE_ -DMK64FN1M0xxx12 -DCPU_MK64FN1M0VLL12-o .\objects\3140_serial.o --omf_browse .\objects\3140_serial.crf --depend .\objects\3140_serial.d)
+I (src\3140_serial.h)(0x5ECBAD08)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_common.h)(0x5DFACBF2)
+I (C:\Keil_v5\ARM\ARMCC\include\assert.h)(0x5D9B88E2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B88EA)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5ECBAD08)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\fsl_device_registers.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\system_MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12_features.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_clock.h)(0x5DFACBF2)
+F (.\src\3140_serial.h)(0x5ECBAD08)()
+F (.\src\3140_accel.h)(0x5ECBAD08)()
+F (.\src\3140.s)(0x5ECBAD08)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers--pd "__UVISION_VERSION SETA 529" --pd "_RTE_ SETA 1" --pd "MK64FN1M0xxx12 SETA 1"--list .\listings\3140.lst --xref -o .\objects\3140.o --depend .\objects\3140.d)
+F (.\src\3140_concur.c)(0x5ECBAD08)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers-D__UVISION_VERSION="529" -D_RTE_ -DMK64FN1M0xxx12 -DCPU_MK64FN1M0VLL12-o .\objects\3140_concur.o --omf_browse .\objects\3140_concur.crf --depend .\objects\3140_concur.d)
+I (src\3140_concur.h)(0x5ECBAD08)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B88EA)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_common.h)(0x5DFACBF2)
+I (C:\Keil_v5\ARM\ARMCC\include\assert.h)(0x5D9B88E2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B88E8)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5ECBAD08)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\fsl_device_registers.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\system_MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12_features.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_clock.h)(0x5DFACBF2)
+F (.\src\3140_concur.h)(0x5ECBAD08)()
+F (.\src\lab3_t0.c)(0x5ECC3949)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers-D__UVISION_VERSION="529" -D_RTE_ -DMK64FN1M0xxx12 -DCPU_MK64FN1M0VLL12-o .\objects\lab3_t0.o --omf_browse .\objects\lab3_t0.crf --depend .\objects\lab3_t0.d)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_common.h)(0x5DFACBF2)
+I (C:\Keil_v5\ARM\ARMCC\include\assert.h)(0x5D9B88E2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B88EA)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5ECBAD08)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\fsl_device_registers.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\system_MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12_features.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_clock.h)(0x5DFACBF2)
+I (src\3140_accel.h)(0x5ECBAD08)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_i2c.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_port.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_gpio.h)(0x5DFACBF2)
+I (src\3140_i2c.h)(0x5ECBAD08)
+I (src\3140_serial.h)(0x5ECBAD08)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5D9B88EA)
+I (src\3140_concur.h)(0x5ECBAD08)
+I (src\utils.h)(0x5ECBAD08)
+I (src\shared_structs.h)(0x5ECC2CA7)
+F (.\src\utils.c)(0x5ECC2D30)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers-D__UVISION_VERSION="529" -D_RTE_ -DMK64FN1M0xxx12 -DCPU_MK64FN1M0VLL12-o .\objects\utils.o --omf_browse .\objects\utils.crf --depend .\objects\utils.d)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include\MK64F12.h)(0x585C32DA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B88E8)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include\system_MK64F12.h)(0x5404C1E0)
+I (src\utils.h)(0x5ECBAD08)
+F (.\src\utils.h)(0x5ECBAD08)()
+F (.\src\process.c)(0x5ECC301F)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers-D__UVISION_VERSION="529" -D_RTE_ -DMK64FN1M0xxx12 -DCPU_MK64FN1M0VLL12-o .\objects\process.o --omf_browse .\objects\process.crf --depend .\objects\process.d)
+I (src\3140_concur.h)(0x5ECBAD08)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B88EA)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_common.h)(0x5DFACBF2)
+I (C:\Keil_v5\ARM\ARMCC\include\assert.h)(0x5D9B88E2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B88E8)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5ECBAD08)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\fsl_device_registers.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\system_MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12_features.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_clock.h)(0x5DFACBF2)
+I (src\shared_structs.h)(0x5ECC2CA7)
+F (.\src\shared_structs.h)(0x5ECC2CA7)()
+F (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_clock.c)(0x5DFACBF2)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers-D__UVISION_VERSION="529" -D_RTE_ -DMK64FN1M0xxx12 -DCPU_MK64FN1M0VLL12-o .\objects\fsl_clock.o --omf_browse .\objects\fsl_clock.crf --depend .\objects\fsl_clock.d)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_clock.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_common.h)(0x5DFACBF2)
+I (C:\Keil_v5\ARM\ARMCC\include\assert.h)(0x5D9B88E2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B88EA)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5ECBAD08)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\fsl_device_registers.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\system_MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12_features.h)(0x5DFACBF2)
+F (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_common.c)(0x5DFACBF2)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers-D__UVISION_VERSION="529" -D_RTE_ -DMK64FN1M0xxx12 -DCPU_MK64FN1M0VLL12-o .\objects\fsl_common.o --omf_browse .\objects\fsl_common.crf --depend .\objects\fsl_common.d)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_common.h)(0x5DFACBF2)
+I (C:\Keil_v5\ARM\ARMCC\include\assert.h)(0x5D9B88E2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B88EA)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5ECBAD08)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\fsl_device_registers.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\system_MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12_features.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_clock.h)(0x5DFACBF2)
+F (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_gpio.c)(0x5DFACBF2)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers-D__UVISION_VERSION="529" -D_RTE_ -DMK64FN1M0xxx12 -DCPU_MK64FN1M0VLL12-o .\objects\fsl_gpio.o --omf_browse .\objects\fsl_gpio.crf --depend .\objects\fsl_gpio.d)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_gpio.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_common.h)(0x5DFACBF2)
+I (C:\Keil_v5\ARM\ARMCC\include\assert.h)(0x5D9B88E2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B88EA)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5ECBAD08)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\fsl_device_registers.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\system_MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12_features.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_clock.h)(0x5DFACBF2)
+F (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_i2c.c)(0x5DFACBF2)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers-D__UVISION_VERSION="529" -D_RTE_ -DMK64FN1M0xxx12 -DCPU_MK64FN1M0VLL12-o .\objects\fsl_i2c.o --omf_browse .\objects\fsl_i2c.crf --depend .\objects\fsl_i2c.d)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_i2c.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_common.h)(0x5DFACBF2)
+I (C:\Keil_v5\ARM\ARMCC\include\assert.h)(0x5D9B88E2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B88E8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B88EA)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5ECBAD08)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\fsl_device_registers.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\system_MK64F12.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\MK64F12_features.h)(0x5DFACBF2)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers\fsl_clock.h)(0x5DFACBF2)
+F (RTE\Device\MK64FN1M0xxx12\startup_MK64F12.s)(0x5ECBAD08)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers--pd "__UVISION_VERSION SETA 529" --pd "_RTE_ SETA 1" --pd "MK64FN1M0xxx12 SETA 1"--list .\listings\startup_mk64f12.lst --xref -o .\objects\startup_mk64f12.o --depend .\objects\startup_mk64f12.d)
+F (RTE\Device\MK64FN1M0xxx12\system_MK64F12.c)(0x5ECBAD08)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Driver\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0-IC:\Users\ho_we\AppData\Local\Arm\Packs\NXP\MK64F12_DFP\12.1.0\drivers-D__UVISION_VERSION="529" -D_RTE_ -DMK64FN1M0xxx12 -DCPU_MK64FN1M0VLL12-o .\objects\system_mk64f12.o --omf_browse .\objects\system_mk64f12.crf --depend .\objects\system_mk64f12.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B88E8)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include\MK64F12.h)(0x585C32DA)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D264786)
+I (C:\Users\ho_we\AppData\Local\Arm\Packs\Keil\Kinetis_K60_DFP\1.5.0\Device\Include\system_MK64F12.h)(0x5404C1E0)
